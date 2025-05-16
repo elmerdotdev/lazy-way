@@ -14,7 +14,7 @@ More **paragraphs**
 
 1. Buy meat
 2. Cook meat
-3. Eat with rice
+3. Eat with ==rice==
 
 ### To Dos
 
@@ -26,11 +26,11 @@ More **paragraphs**
 
 ### Tasks
 
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+- [ ] Write the press release
+- [x] Update the website
+- [x] Contact the media
 
-To ~~start~~ using git, run `git init`.
+To ~~start~~ using git, run `git init`. 🐙
 
 ```bash
 git add .
